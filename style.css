@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#day
+{
+   border-width: 4;
+   border-style: ridge;
+   background-color: azure;
+   border-color: palevioletred;
+}
+
